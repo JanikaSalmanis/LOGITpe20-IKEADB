@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\IKEADB\IKEADB\bin\Debug\IKEAS.mdf
+C:\Users\opilane\source\repos\IKEADB\IKEADB\bin\Debug\IKEAS_log.ldf
+C:\Users\opilane\source\repos\IKEADB\IKEADB\bin\Debug\IKEADB.exe.config
+C:\Users\opilane\source\repos\IKEADB\IKEADB\bin\Debug\IKEADB.exe
+C:\Users\opilane\source\repos\IKEADB\IKEADB\bin\Debug\IKEADB.pdb
+C:\Users\opilane\source\repos\IKEADB\IKEADB\obj\Debug\IKEADB.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\IKEADB\IKEADB\obj\Debug\IKEADB.Form1.resources
+C:\Users\opilane\source\repos\IKEADB\IKEADB\obj\Debug\IKEADB.Properties.Resources.resources
+C:\Users\opilane\source\repos\IKEADB\IKEADB\obj\Debug\IKEADB.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\IKEADB\IKEADB\obj\Debug\IKEADB.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IKEADB\IKEADB\obj\Debug\IKEADB.exe
+C:\Users\opilane\source\repos\IKEADB\IKEADB\obj\Debug\IKEADB.pdb
